@@ -1,3 +1,2 @@
 # CS-561
-Visual Cryptography Project
-test test test
+Visual Cryptography Project test test test
