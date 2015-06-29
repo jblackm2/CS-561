@@ -1,3 +1,4 @@
 # CS-561
 Visual Cryptography Project 
-test test test
+
+Copyright (c) 2015 Justin Blackmon and Joel Bush
